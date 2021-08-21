@@ -1,5 +1,5 @@
 <h2 align="left">Hi, I'm Arun Govil 👋</h2>
-<h3 align="left">A passionate frontend developer from India!</h3>
+<h3 align="left">A passionate frontend developer and hobbyist programmer</h3>
 
 <h4 align="left">Languages and Tools I use</h3>
 <p align="left">
