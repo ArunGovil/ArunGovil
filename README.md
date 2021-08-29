@@ -1,5 +1,5 @@
 <h2 align="left">Hi, I'm Arun Govil 👋</h2>
-<img src="./LinkedInCover">
+<img src="./LinkedInCover.png">
 
 <h4 align="left">Languages and Tools I use</h3>
 <p align="left">
